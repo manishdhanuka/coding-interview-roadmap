@@ -40,7 +40,7 @@ Non-Primitive Data Structures: These are more complex data structures and are fu
 Linear Data Structures: In these data structures, data elements are arranged sequentially. Examples include arrays, linked lists, stacks, and queues.
 Non-Linear Data Structures: Here, data elements aren't placed in a sequence. Examples are graphs and trees.
 
-https://storage.googleapis.com/download/storage/v1/b/designgurus-prod.appspot.com/o/e1aca977880d4dce83f295c00?generation=1697606174169801&alt=media
+Refer the image under Introduction.
 
 Let's explore some examples of these data structures.
 
