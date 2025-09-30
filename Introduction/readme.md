@@ -40,8 +40,6 @@ Non-Primitive Data Structures: These are more complex data structures and are fu
 Linear Data Structures: In these data structures, data elements are arranged sequentially. Examples include arrays, linked lists, stacks, and queues.
 Non-Linear Data Structures: Here, data elements aren't placed in a sequence. Examples are graphs and trees.
 
-Refer the image under Introduction.
-
 Let's explore some examples of these data structures.
 
 Primitive Data Structures
@@ -68,3 +66,15 @@ Graphs: These are like social networks, where each person (node) can be connecte
 We've only scratched the surface of data structures here. As you delve deeper into each type, you'll gain a stronger understanding of how they work and where they can be applied.
 
 We will start with the Arrays data structure but before that let's see what is Big-O.
+
+# An Overview of Big-O
+Big-O notation is a mathematical notation that is used to describe the performance or complexity of an algorithm, specifically how long an algorithm takes to run as the input size grows. Understanding Big-O notation is essential for software engineers, as it allows them to analyze and compare the efficiency of different algorithms and make informed decisions about which one to use in a given situation. In this guide, we will cover the basics of Big-O notation and how to use it to analyze the performance of algorithms.
+
+What is Big-O?
+Big-O notation is a way of expressing the time (or space) complexity of an algorithm. It provides a rough estimate of how long an algorithm takes to run (or how much memory it uses), based on the size of the input. For example, an algorithm with a time complexity of  means that the running time increases linearly with the size of the input.
+
+What is time complexity?
+Time complexity is a measure of how long an algorithm takes to run, based on the size of the input. It is expressed using Big-O notation, which provides a rough estimate of the running time. An algorithm with a lower time complexity will generally be faster than an algorithm with a higher time complexity.
+
+What is space complexity?
+Space complexity is a measure of how much memory an algorithm requires, based on the size of the input. Like time complexity, it is expressed using Big-O notation. An algorithm with a lower space complexity will generally require less memory than an algorithm with a higher space complexity.
