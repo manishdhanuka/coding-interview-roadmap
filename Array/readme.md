@@ -19,7 +19,7 @@ Direct Index Access: We can compute the memory address of any element without sc
 Static vs. Dynamic Arrays
 Arrays can be categorized into static and dynamic types based on whether their size can change during runtime. Understanding the difference between these two helps in choosing the right type for a given problem.
 
-1. Static Arrays
+## Static Arrays
 A static array is an array with a fixed size that is defined when it is created. The number of elements cannot be changed after declaration.
 
 Characteristics
@@ -28,7 +28,7 @@ Memory Allocation: Static arrays are usually allocated on the stack, which makes
 Efficient Access: Since memory is allocated contiguously, accessing elements is very fast.
 No Resizing: If additional space is needed beyond the declared size, a new array must be created and data copied over.
 
-2. Dynamic Arrays
+## Dynamic Arrays
 A dynamic array can change its size at runtime, allowing elements to be added or removed as needed.
 
 Characteristics
