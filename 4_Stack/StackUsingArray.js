@@ -10,7 +10,7 @@ class Stack {
       console.log(`Stack Overflow! Cannot push ${value}.`);
       return;
     } else {
-      this.stack[++top] = value;
+      this.stack[++this.top] = value;
       console.log(`${value} pushed to stack.`);
     }
   }
